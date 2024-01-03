@@ -1,0 +1,210 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\jnaga\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:2:1-73:12
+INJECTED from C:\Users\jnaga\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:2:1-73:12
+INJECTED from C:\Users\jnaga\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:2:1-73:12
+INJECTED from C:\Users\jnaga\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:2:1-73:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\jnaga\.gradle\caches\transforms-3\d6fb66f394053a964421e24efda31f16\transformed\support-v4-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\jnaga\.gradle\caches\transforms-3\d0fc2b46a05f63fe6fc940bc7da4e632\transformed\support-media-compat-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\jnaga\.gradle\caches\transforms-3\f769e6d780292fbdfd2addb335453961\transformed\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\jnaga\.gradle\caches\transforms-3\268949f3adfbb75c8c2d069eec274d22\transformed\support-core-ui-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\jnaga\.gradle\caches\transforms-3\e5f5ffcfb99de1abe75fc913465b3c22\transformed\support-core-utils-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\jnaga\.gradle\caches\transforms-3\bde306a2d5b3a03a036258a8e8c90348\transformed\loader-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\jnaga\.gradle\caches\transforms-3\1514bd3dca11ce06f37863d724fcd7d1\transformed\viewpager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\jnaga\.gradle\caches\transforms-3\812f2b077fd2516df5b94aab101aa90a\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\jnaga\.gradle\caches\transforms-3\56399401ab27d213e297f66122d978e2\transformed\drawerlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\jnaga\.gradle\caches\transforms-3\45e49fa7b88e029d4b6dc96802103e21\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\jnaga\.gradle\caches\transforms-3\558c9fc36d1bca4fd3edd85cd98307c8\transformed\customview-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\jnaga\.gradle\caches\transforms-3\7613eec7ff0a0b54321dffb63c00dce2\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\jnaga\.gradle\caches\transforms-3\3a098992f1dbcc19b88ccf48138bec8e\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\jnaga\.gradle\caches\transforms-3\507502c7a51f24299af09aa88a966ab7\transformed\support-compat-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\jnaga\.gradle\caches\transforms-3\d840fba261f40eb5f3cb7813939d6b44\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\jnaga\.gradle\caches\transforms-3\2ac5f05d811c791c2ed85b02ca3c2251\transformed\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\jnaga\.gradle\caches\transforms-3\7d1e9d6573bf13bd748a4a4be7f835b7\transformed\documentfile-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\jnaga\.gradle\caches\transforms-3\06f9030bbac152bad6b4b001e1cc74c4\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\jnaga\.gradle\caches\transforms-3\5b7ee0d1f21793ac151732c379e8a732\transformed\print-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\jnaga\.gradle\caches\transforms-3\47f2b6531d27077a7c23d2e42444b112\transformed\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\jnaga\.gradle\caches\transforms-3\e1afbe1e361aa34fa902690d28612c45\transformed\cursoradapter-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\jnaga\.gradle\caches\transforms-3\0adcb1d6b80487d23b122bade1407809\transformed\viewmodel-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\jnaga\.gradle\caches\transforms-3\63ac2be0837c6c18ecf4ea6d9f3fd41a\transformed\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\jnaga\.gradle\caches\transforms-3\752aa1350613d8cf76a91a72e3a56d34\transformed\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\jnaga\.gradle\caches\transforms-3\581e3595e62666fc035838723b9ebe98\transformed\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from C:\Users\jnaga\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\jnaga\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from C:\Users\jnaga\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\jnaga\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\jnaga\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from C:\Users\jnaga\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\jnaga\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:6:5-71:19
+INJECTED from C:\Users\jnaga\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:6:5-71:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\jnaga\.gradle\caches\transforms-3\507502c7a51f24299af09aa88a966ab7\transformed\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\jnaga\.gradle\caches\transforms-3\507502c7a51f24299af09aa88a966ab7\transformed\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\jnaga\.gradle\caches\transforms-3\d840fba261f40eb5f3cb7813939d6b44\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\jnaga\.gradle\caches\transforms-3\d840fba261f40eb5f3cb7813939d6b44\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\jnaga\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\jnaga\.gradle\caches\transforms-3\507502c7a51f24299af09aa88a966ab7\transformed\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\Users\jnaga\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:10:9-41
+	android:icon
+		ADDED from C:\Users\jnaga\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:9:9-45
+	android:allowBackup
+		ADDED from C:\Users\jnaga\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\jnaga\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:11:9-40
+	android:name
+		ADDED from C:\Users\jnaga\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:7:10-74
+activity#com.android.attendance.activity.MainActivity
+ADDED from C:\Users\jnaga\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from C:\Users\jnaga\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:15:13-45
+	android:exported
+		ADDED from C:\Users\jnaga\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from C:\Users\jnaga\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:13:13-72
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\jnaga\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\jnaga\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\jnaga\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\jnaga\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\jnaga\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.android.attendance.activity.LoginActivity
+ADDED from C:\Users\jnaga\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:22:10-25:20
+	android:label
+		ADDED from C:\Users\jnaga\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:24:13-45
+	android:name
+		ADDED from C:\Users\jnaga\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:23:13-73
+activity#com.android.attendance.activity.MenuActivity
+ADDED from C:\Users\jnaga\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:26:10-29:20
+	android:label
+		ADDED from C:\Users\jnaga\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:28:13-45
+	android:name
+		ADDED from C:\Users\jnaga\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:27:13-72
+activity#com.android.attendance.activity.AddFacultyActivity
+ADDED from C:\Users\jnaga\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:30:10-33:20
+	android:label
+		ADDED from C:\Users\jnaga\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:32:13-45
+	android:name
+		ADDED from C:\Users\jnaga\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:31:13-78
+activity#com.android.attendance.activity.AddStudentActivity
+ADDED from C:\Users\jnaga\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:34:9-37:20
+	android:label
+		ADDED from C:\Users\jnaga\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:36:13-45
+	android:name
+		ADDED from C:\Users\jnaga\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:35:13-78
+activity#com.android.attendance.activity.ViewFacultyActivity
+ADDED from C:\Users\jnaga\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:38:9-41:20
+	android:label
+		ADDED from C:\Users\jnaga\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:40:13-45
+	android:name
+		ADDED from C:\Users\jnaga\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:39:13-79
+activity#com.android.attendance.activity.ViewStudentActivity
+ADDED from C:\Users\jnaga\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:42:9-45:20
+	android:label
+		ADDED from C:\Users\jnaga\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:44:13-45
+	android:name
+		ADDED from C:\Users\jnaga\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:43:13-79
+activity#com.android.attendance.activity.TestActivity
+ADDED from C:\Users\jnaga\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:46:9-49:20
+	android:label
+		ADDED from C:\Users\jnaga\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:48:13-45
+	android:name
+		ADDED from C:\Users\jnaga\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:47:13-72
+activity#com.android.attendance.activity.ViewStudentByBranchYear
+ADDED from C:\Users\jnaga\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:50:10-53:20
+	android:label
+		ADDED from C:\Users\jnaga\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:52:13-45
+	android:name
+		ADDED from C:\Users\jnaga\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:51:13-83
+activity#com.android.attendance.activity.AddAttandanceSessionActivity
+ADDED from C:\Users\jnaga\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:54:11-57:20
+	android:label
+		ADDED from C:\Users\jnaga\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:56:13-45
+	android:name
+		ADDED from C:\Users\jnaga\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:55:13-88
+activity#com.android.attendance.activity.AddAttendanceActivity
+ADDED from C:\Users\jnaga\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:58:10-61:20
+	android:label
+		ADDED from C:\Users\jnaga\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:60:13-45
+	android:name
+		ADDED from C:\Users\jnaga\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:59:13-81
+activity#com.android.attendance.activity.ViewAttendanceByFacultyActivity
+ADDED from C:\Users\jnaga\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:62:10-65:20
+	android:label
+		ADDED from C:\Users\jnaga\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:64:13-45
+	android:name
+		ADDED from C:\Users\jnaga\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:63:13-91
+activity#com.android.attendance.activity.ViewAttendancePerStudentActivity
+ADDED from C:\Users\jnaga\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:66:10-69:20
+	android:label
+		ADDED from C:\Users\jnaga\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:68:13-45
+	android:name
+		ADDED from C:\Users\jnaga\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:67:13-92
+uses-sdk
+INJECTED from C:\Users\jnaga\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\jnaga\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\jnaga\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\jnaga\.gradle\caches\transforms-3\d6fb66f394053a964421e24efda31f16\transformed\support-v4-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\jnaga\.gradle\caches\transforms-3\d6fb66f394053a964421e24efda31f16\transformed\support-v4-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\jnaga\.gradle\caches\transforms-3\d0fc2b46a05f63fe6fc940bc7da4e632\transformed\support-media-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\jnaga\.gradle\caches\transforms-3\d0fc2b46a05f63fe6fc940bc7da4e632\transformed\support-media-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\jnaga\.gradle\caches\transforms-3\f769e6d780292fbdfd2addb335453961\transformed\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\jnaga\.gradle\caches\transforms-3\f769e6d780292fbdfd2addb335453961\transformed\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\jnaga\.gradle\caches\transforms-3\268949f3adfbb75c8c2d069eec274d22\transformed\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\jnaga\.gradle\caches\transforms-3\268949f3adfbb75c8c2d069eec274d22\transformed\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\jnaga\.gradle\caches\transforms-3\e5f5ffcfb99de1abe75fc913465b3c22\transformed\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\jnaga\.gradle\caches\transforms-3\e5f5ffcfb99de1abe75fc913465b3c22\transformed\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\jnaga\.gradle\caches\transforms-3\bde306a2d5b3a03a036258a8e8c90348\transformed\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\jnaga\.gradle\caches\transforms-3\bde306a2d5b3a03a036258a8e8c90348\transformed\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\jnaga\.gradle\caches\transforms-3\1514bd3dca11ce06f37863d724fcd7d1\transformed\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\jnaga\.gradle\caches\transforms-3\1514bd3dca11ce06f37863d724fcd7d1\transformed\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\jnaga\.gradle\caches\transforms-3\812f2b077fd2516df5b94aab101aa90a\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\jnaga\.gradle\caches\transforms-3\812f2b077fd2516df5b94aab101aa90a\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\jnaga\.gradle\caches\transforms-3\56399401ab27d213e297f66122d978e2\transformed\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\jnaga\.gradle\caches\transforms-3\56399401ab27d213e297f66122d978e2\transformed\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\jnaga\.gradle\caches\transforms-3\45e49fa7b88e029d4b6dc96802103e21\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\jnaga\.gradle\caches\transforms-3\45e49fa7b88e029d4b6dc96802103e21\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\jnaga\.gradle\caches\transforms-3\558c9fc36d1bca4fd3edd85cd98307c8\transformed\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\jnaga\.gradle\caches\transforms-3\558c9fc36d1bca4fd3edd85cd98307c8\transformed\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\jnaga\.gradle\caches\transforms-3\7613eec7ff0a0b54321dffb63c00dce2\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\jnaga\.gradle\caches\transforms-3\7613eec7ff0a0b54321dffb63c00dce2\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\jnaga\.gradle\caches\transforms-3\3a098992f1dbcc19b88ccf48138bec8e\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\jnaga\.gradle\caches\transforms-3\3a098992f1dbcc19b88ccf48138bec8e\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\jnaga\.gradle\caches\transforms-3\507502c7a51f24299af09aa88a966ab7\transformed\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\jnaga\.gradle\caches\transforms-3\507502c7a51f24299af09aa88a966ab7\transformed\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\jnaga\.gradle\caches\transforms-3\d840fba261f40eb5f3cb7813939d6b44\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\jnaga\.gradle\caches\transforms-3\d840fba261f40eb5f3cb7813939d6b44\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\jnaga\.gradle\caches\transforms-3\2ac5f05d811c791c2ed85b02ca3c2251\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\jnaga\.gradle\caches\transforms-3\2ac5f05d811c791c2ed85b02ca3c2251\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\jnaga\.gradle\caches\transforms-3\7d1e9d6573bf13bd748a4a4be7f835b7\transformed\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\jnaga\.gradle\caches\transforms-3\7d1e9d6573bf13bd748a4a4be7f835b7\transformed\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\jnaga\.gradle\caches\transforms-3\06f9030bbac152bad6b4b001e1cc74c4\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\jnaga\.gradle\caches\transforms-3\06f9030bbac152bad6b4b001e1cc74c4\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\jnaga\.gradle\caches\transforms-3\5b7ee0d1f21793ac151732c379e8a732\transformed\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\jnaga\.gradle\caches\transforms-3\5b7ee0d1f21793ac151732c379e8a732\transformed\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\jnaga\.gradle\caches\transforms-3\47f2b6531d27077a7c23d2e42444b112\transformed\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\jnaga\.gradle\caches\transforms-3\47f2b6531d27077a7c23d2e42444b112\transformed\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\jnaga\.gradle\caches\transforms-3\e1afbe1e361aa34fa902690d28612c45\transformed\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\jnaga\.gradle\caches\transforms-3\e1afbe1e361aa34fa902690d28612c45\transformed\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\jnaga\.gradle\caches\transforms-3\0adcb1d6b80487d23b122bade1407809\transformed\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\jnaga\.gradle\caches\transforms-3\0adcb1d6b80487d23b122bade1407809\transformed\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\jnaga\.gradle\caches\transforms-3\63ac2be0837c6c18ecf4ea6d9f3fd41a\transformed\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\jnaga\.gradle\caches\transforms-3\63ac2be0837c6c18ecf4ea6d9f3fd41a\transformed\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\jnaga\.gradle\caches\transforms-3\752aa1350613d8cf76a91a72e3a56d34\transformed\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\jnaga\.gradle\caches\transforms-3\752aa1350613d8cf76a91a72e3a56d34\transformed\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\jnaga\.gradle\caches\transforms-3\581e3595e62666fc035838723b9ebe98\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\jnaga\.gradle\caches\transforms-3\581e3595e62666fc035838723b9ebe98\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from C:\Users\jnaga\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\jnaga\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml
